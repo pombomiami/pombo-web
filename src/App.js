@@ -1,8 +1,8 @@
-import React from "react";
-import PrivatePolicy from "./screens/PrivatePolicy";
+import React from 'react';
+import PrivatePolicy from './screens/PrivatePolicy';
 
 function App() {
-  return <PrivatePolicy />;
+	return <PrivatePolicy />;
 }
 
 export default App;
